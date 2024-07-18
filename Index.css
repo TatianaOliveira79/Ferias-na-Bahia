@@ -1,0 +1,10 @@
+h1 {
+  color: rgb(7, 7, 169);
+/}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: rgb(201, 191, 172);
+}
